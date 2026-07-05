@@ -23,8 +23,6 @@ This project is an interactive Mobile Sales Dashboard built using Power BI to an
 ## Dashboard Preview
 ![Dashboard](Dashboard.png)
 
-> *(Upload your dashboard screenshot after creating this README and update the image if desired.)*
-
 ## Project Files
 - Mobile Sales Dashboard.pbix
 - Mobile Sales Dataset.xlsx
